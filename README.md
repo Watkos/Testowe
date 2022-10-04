@@ -1,2 +1,2 @@
 # Testowe
-Testowe repo
+Testowe repozytorium
