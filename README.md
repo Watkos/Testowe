@@ -1,3 +1,3 @@
 # Testowe
-Testowe repozytorium do szkolenia
-Test123
+Testowe repozytorium do szkolenia pamparampam
+
